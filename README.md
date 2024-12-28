@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=lycokodo)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @LycoKodo :D
 - 👀 I’m interested in Machine Learning, NLP and AI!
 - 🌱 I’m currently learning Java (vanilla) and Calculus for Backprop
