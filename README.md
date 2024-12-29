@@ -1,4 +1,6 @@
-## 👋 Hi, I’m @LycoKodo :D, I wouldn't call myself an avid programmer XD
+## 👋 Hi, I’m @LycoKodo :D
+---
+# I wouldn't call myself an avid programmer XD
 
 - 👀 I’m interested in Machine Learning, NLP and AI!
 - 🌱 I’m currently learning machine learning and high level math assosiated with it.
