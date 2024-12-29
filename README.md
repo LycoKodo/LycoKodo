@@ -1,7 +1,7 @@
-## 👋 Hi, I’m @LycoKodo :D
+## 👋 Hi, I’m @LycoKodo :D Heres a bit about me:
 
 - 👀 I’m interested in Machine Learning, NLP and AI!
-- 🌱 I’m currently learning Java (vanilla) and Calculus for Backprop
+- 🌱 I’m currently learning machine learning and high level math assosiated with it.
 - 💞️ I’m looking to collaborate on a common codebse for the VEX Robotics community.
 - ⚡ Fun fact: I nuked my computer once falling for the "remove french language pack" thing T^T
 
