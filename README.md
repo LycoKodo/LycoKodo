@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @LycoKodo :D
----
-# I wouldn't call myself an avid programmer XD
+### I wouldn't call myself an avid programmer, but I am from Australia! XD
+#### But here is a bit about me: 
 
 - 👀 I’m interested in Machine Learning, NLP and AI!
 - 🌱 I’m currently learning machine learning and high level math assosiated with it.
