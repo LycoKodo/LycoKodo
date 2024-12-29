@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Alex :D
+## 👋 Hi, I’m @LycoKodo :D
 ### I wouldn't call myself an avid programmer, but I am from Australia! XD
 #### But here is a bit about me: 
 
