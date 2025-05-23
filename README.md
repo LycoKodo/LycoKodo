@@ -1,10 +1,9 @@
 ## 👋 Hi, I’m @LycoKodo :D
-### I wouldn't call myself an avid programmer, but I am from Australia! XD
-#### But here is a bit about me: 
+#### Here is a bit about me: 
 
-- 👀 I’m interested in Machine Learning, NLP and AI!
-- 🌱 I’m currently learning machine learning and high level math assosiated with it.
-- 💞️ I’m looking to collaborate on a common codebse for the VEX Robotics community.
+- 👀 I’m interested in Machine Learning, Embedded System Programming and Mathematics!
+- 🌱 I’m currently learning the rust programming language.
+- 💞️ I’m working on a rust-based programming library project for the VEX Robotics Competition.
 - ⚡ Fun fact: I nuked my computer once falling for the "remove french language pack" thing T^T
 
 ### 👾 My Character Stats:
